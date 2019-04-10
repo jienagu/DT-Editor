@@ -4,6 +4,9 @@ This is a DT Editor Shiny App that has (almost) all features of data table edito
 
 ![Demo](DT_Editor.gif)
 
+# Shiny Module
+https://github.com/jienagu/DT_editor_shiny_module
+
 # Acknowledgement
 Beef Cattle Institute at Kansas State University. Special thanks for Dr. Amrine
 
