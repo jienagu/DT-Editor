@@ -5,6 +5,9 @@ This is a DT Editor Shiny App that has (almost) all features of data table edito
 ![Demo](DT_Editor.gif)
 
 # Shiny Module
+
+Here is a DT editor shiny module that can fit for any data.table You just need to create your data.table and load it to the same location of your shiny app as note.rds
+
 https://github.com/jienagu/DT_editor_shiny_module
 
 # Acknowledgement
