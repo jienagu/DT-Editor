@@ -10,6 +10,3 @@ Here is a DT editor shiny module that can fit for any data.table You just need t
 
 https://github.com/jienagu/DT_editor_shiny_module
 
-# Acknowledgement
-Beef Cattle Institute at Kansas State University. Special thanks for Dr. Amrine
-
